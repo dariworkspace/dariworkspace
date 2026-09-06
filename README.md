@@ -11,19 +11,6 @@ I continually expand my skills and contribute my knowledge. My work is character
 Currently working as a Full-time as a Animator / Freelance.
 <br><br>
 
-### 📫 <b>Reach Me Out:</b> 
-
-<a href="mailto:darshandari07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"></a>
-<a href="https://in.linkedin.com/in/dari-darshan-g-062237168" target="_blank"><img src="https://img.shields.io/badge/-Linkdin Profile-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
-<a href="https://www.artstation.com/darshandari" target="_blank"><img src="https://img.shields.io/badge/-Artstation-0d1017?style=flat&labelColor=0d1017&logo=artstation&logoColor=white" alt="Artstation Badge"></a>
-<a href="https://www.behance.net/daridarshan" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769ff?style=flat&labelColor=1769ff&logo=behance&logoColor=white" alt="Behance Badge"></a>
-<a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://www.upwork.com/freelancers/~01d141435fdeb39fb8" target="_blank"><img src="https://img.shields.io/badge/Upwork-6F6F6F.svg?style=flat&logo=upwork&logoColor=white" alt="Upwork Badge"></a>
-<br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=31C3F7&width=435&lines=Need+Animations%2C+Let's+Connect!" alt="Typing SVG" /></a>
-
-
 ## 🌱 Growing Area :  
 
 - 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
